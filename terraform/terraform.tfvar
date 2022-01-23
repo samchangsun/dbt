@@ -1,0 +1,22 @@
+provider "snowflake" {
+  // required
+  username = "changsun"
+  account  = "tba08446"
+  region   = "..."
+
+  // optional, at exactly one must be set
+  password               = "hongluan4006"
+  oauth_access_token     = "..."
+  private_key_path       = "..."
+  private_key            = "..."
+  private_key_passphrase = "..."
+  oauth_refresh_token    = "..."
+  oauth_client_id        = "..."
+  oauth_client_secret    = "..."
+  oauth_endpoint         = "..."
+  oauth_redirect_url     = "..."
+
+  // optional
+  role = "sysadmin"
+}
+

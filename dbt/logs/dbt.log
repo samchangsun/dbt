@@ -1,0 +1,17 @@
+11:55:14 | [ debug ] | Starter project path: /usr/local/lib/python3.9/site-packages/dbt/include/starter_project
+11:55:14 | [ info  ] | 
+Your new dbt project "first_dbt" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
